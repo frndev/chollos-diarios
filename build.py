@@ -18,7 +18,7 @@ for p in P:
 <a class="btn" href="{url}" target="_blank" rel="sponsored noopener nofollow">Ver oferta en Amazon</a></article>''')
 opts=''.join(f'<button data-c="{e(c)}">{e(c)}</button>' for c in cats)
 out=f'''<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Ofertas Amazon.es – chollos seleccionados</title><meta name="description" content="Selección diaria de ofertas en Amazon.es">
+<title>Chollos Diarios – ofertas seleccionadas</title><meta name="description" content="Selección diaria de chollos y ofertas">
 <style>
 *{{box-sizing:border-box}}body{{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:#f4f5f7;color:#1b1f24}}
 header{{background:#131921;color:#fff;padding:24px 16px;text-align:center}}header h1{{margin:0;font-size:1.8rem}}header h1 span{{color:#ff9900}}header p{{margin:6px 0 0;opacity:.8}}
@@ -31,7 +31,7 @@ main{{max-width:1200px;margin:0 auto;padding:0 16px 32px;display:grid;grid-templ
 .btn{{display:block;text-align:center;background:#ffd814;color:#111;text-decoration:none;padding:10px;border-radius:20px;font-weight:600}}.btn:hover{{background:#f7ca00}}
 footer{{background:#232f3e;color:#ddd;padding:20px 16px;text-align:center;font-size:.85rem;line-height:1.5}}
 </style></head><body>
-<header><h1>Ofertas <span>Amazon.es</span></h1><p>Chollos seleccionados · actualizado el {datetime.date.today().strftime('%d/%m/%Y')}</p></header>
+<header><h1>Chollos <span>Diarios</span></h1><p>Chollos seleccionados · actualizado el {datetime.date.today().strftime('%d/%m/%Y')}</p></header>
 <nav class="filters"><button class="on" data-c="*">Todas</button>{opts}</nav>
 <main>{''.join(cards)}</main>
 <footer><p><strong>Como afiliado de Amazon, obtengo ingresos por las compras adscritas que cumplen los requisitos aplicables.</strong></p>
