@@ -18,7 +18,10 @@ for p in P:
 <a class="btn" href="{url}" target="_blank" rel="sponsored noopener nofollow">Ver oferta en Amazon</a></article>''')
 opts=''.join(f'<button data-c="{e(c)}">{e(c)}</button>' for c in cats)
 out=f'''<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Chollos Diarios – ofertas seleccionadas</title><meta name="description" content="Selección diaria de chollos y ofertas">
+<title>Chollos Diarios – ofertas y descuentos de hoy</title><meta name="description" content="Chollos y ofertas seleccionadas cada día: tecnología, hogar, videojuegos y más, con descuentos reales comprobados.">
+<link rel="canonical" href="https://frndev.github.io/chollos-diarios/"><meta name="robots" content="index,follow">
+<meta property="og:type" content="website"><meta property="og:locale" content="es_ES"><meta property="og:title" content="Chollos Diarios – ofertas y descuentos de hoy"><meta property="og:description" content="Chollos y ofertas seleccionadas cada día con descuentos reales comprobados."><meta property="og:url" content="https://frndev.github.io/chollos-diarios/">
+<meta name="twitter:card" content="summary">
 <style>
 *{{box-sizing:border-box}}body{{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:#f4f5f7;color:#1b1f24}}
 header{{background:#131921;color:#fff;padding:24px 16px;text-align:center}}header h1{{margin:0;font-size:1.8rem}}header h1 span{{color:#ff9900}}header p{{margin:6px 0 0;opacity:.8}}
@@ -38,4 +41,6 @@ footer{{background:#232f3e;color:#ddd;padding:20px 16px;text-align:center;font-s
 <p>Los precios y descuentos pueden cambiar en cualquier momento. El precio y la disponibilidad que se muestran en Amazon.es en el momento de la compra son los que se aplicarán.</p></footer>
 <script>document.querySelectorAll('.filters button').forEach(b=>b.onclick=()=>{{document.querySelectorAll('.filters button').forEach(x=>x.classList.remove('on'));b.classList.add('on');document.querySelectorAll('.card').forEach(c=>c.style.display=(b.dataset.c=='*'||c.dataset.cat==b.dataset.c)?'':'none')}})</script>
 </body></html>'''
-os.makedirs(os.path.join(HERE,'site'),exist_ok=True); open(os.path.join(HERE,'site','index.html'),'w').write(out); print('site/index.html:',len(P),'productos')
+os.makedirs(os.path.join(HERE,'site'),exist_ok=True); open(os.path.join(HERE,'site','index.html'),'w').write(out); open(os.path.join(HERE,'site','robots.txt'),'w').write('User-agent: *\nAllow: /\nSitemap: https://frndev.github.io/chollos-diarios/sitemap.xml\n')
+open(os.path.join(HERE,'site','sitemap.xml'),'w').write('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://frndev.github.io/chollos-diarios/</loc><lastmod>'+datetime.date.today().isoformat()+'</lastmod><changefreq>daily</changefreq></url></urlset>\n')
+print('site/index.html:',len(P),'productos')
