@@ -21,7 +21,7 @@ out=f'''<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="v
 <title>Chollos Diarios – ofertas y descuentos de hoy</title><meta name="description" content="Chollos y ofertas seleccionadas cada día: tecnología, hogar, videojuegos y más, con descuentos reales comprobados.">
 <link rel="canonical" href="https://frndev.github.io/chollos-diarios/"><meta name="robots" content="index,follow">
 <meta property="og:type" content="website"><meta property="og:locale" content="es_ES"><meta property="og:title" content="Chollos Diarios – ofertas y descuentos de hoy"><meta property="og:description" content="Chollos y ofertas seleccionadas cada día con descuentos reales comprobados."><meta property="og:url" content="https://frndev.github.io/chollos-diarios/">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:card" content="summary"><meta name="google-site-verification" content="7hHaYig-lav-W99AxpycY2RHe8s50GVDp-eUggo91SQ" />
 <style>
 *{{box-sizing:border-box}}body{{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:#f4f5f7;color:#1b1f24}}
 header{{background:#131921;color:#fff;padding:24px 16px;text-align:center}}header h1{{margin:0;font-size:1.8rem}}header h1 span{{color:#ff9900}}header p{{margin:6px 0 0;opacity:.8}}
