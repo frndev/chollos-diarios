@@ -1,5 +1,18 @@
 [
  {
+  "asin": "B0GBZ2KF6N",
+  "title": "CORSAIR 3200D RS Caja para PC Semitorre ARGB – Humo",
+  "image": "https://m.media-amazon.com/images/I/713YQ8ssdVL._AC_SL1500_.jpg",
+  "category": "Informática",
+  "discount": 51,
+  "price": "46,54 €",
+  "old_price": "94,90€",
+  "seen_on": "2026-11-04",
+  "found": "2026-11-04",
+  "url": "https://www.amazon.es/dp/B0GBZ2KF6N",
+  "source": "https://www.chollometro.com/ofertas/2054912"
+ },
+ {
   "asin": "B0GZZM4CXF",
   "title": "roborock Qrevo 2 Pro Robot Aspirador Succión Extrema de 25000 Pa,Negro",
   "image": "https://m.media-amazon.com/images/I/51jUMSvuR6L._AC_SL1500_.jpg",
@@ -7,10 +20,9 @@
   "discount": 49,
   "price": "349,00 €",
   "old_price": "689,00€",
-  "seen_on": "2026-11-03",
+  "seen_on": "2026-11-04",
   "found": "2026-11-03",
-  "url": "https://www.amazon.es/dp/B0GZZM4CXF",
-  "source": "https://www.chollometro.com/ofertas/2052586"
+  "url": "https://www.amazon.es/dp/B0GZZM4CXF"
  },
  {
   "asin": "B07Z5JD3T4",
@@ -20,10 +32,9 @@
   "discount": 47,
   "price": "7,99 €",
   "old_price": "14,99€",
-  "seen_on": "2026-11-03",
+  "seen_on": "2026-11-04",
   "found": "2026-11-03",
-  "url": "https://www.amazon.es/dp/B07Z5JD3T4",
-  "source": "https://www.chollometro.com/ofertas/2054164"
+  "url": "https://www.amazon.es/dp/B07Z5JD3T4"
  },
  {
   "asin": "B0GL2LYFYN",
@@ -33,23 +44,21 @@
   "discount": 47,
   "price": "24,90 €",
   "old_price": "47,23€",
-  "seen_on": "2026-11-03",
+  "seen_on": "2026-11-04",
   "found": "2026-11-03",
-  "url": "https://www.amazon.es/dp/B0GL2LYFYN",
-  "source": "https://www.chollometro.com/ofertas/2052396"
+  "url": "https://www.amazon.es/dp/B0GL2LYFYN"
  },
  {
   "asin": "B01MR7XCBX",
   "title": "Educa - Puzzle de 1500 Piezas para Adultos | Atardecer en Venecia | A Partir de 14 años (17124)",
   "image": "https://m.media-amazon.com/images/I/81y0CYueibL._AC_SL1400_.jpg",
   "category": "Juguetes y juegos",
-  "discount": 45,
-  "price": "10,99 €",
+  "discount": 40,
+  "price": "11,99 €",
   "old_price": "19,99€",
-  "seen_on": "2026-11-03",
+  "seen_on": "2026-11-04",
   "found": "2026-11-03",
-  "url": "https://www.amazon.es/dp/B01MR7XCBX",
-  "source": "https://www.chollometro.com/ofertas/2054708"
+  "url": "https://www.amazon.es/dp/B01MR7XCBX"
  },
  {
   "asin": "B0D8QJRBV3",
@@ -59,10 +68,9 @@
   "discount": 40,
   "price": "59,90 €",
   "old_price": "99,99€",
-  "seen_on": "2026-11-03",
+  "seen_on": "2026-11-04",
   "found": "2026-11-03",
-  "url": "https://www.amazon.es/dp/B0D8QJRBV3",
-  "source": "https://www.chollometro.com/ofertas/2052866"
+  "url": "https://www.amazon.es/dp/B0D8QJRBV3"
  },
  {
   "asin": "B00FKSQI8A",
@@ -72,10 +80,22 @@
   "discount": 35,
   "price": "27,99 €",
   "old_price": "42,90€",
-  "seen_on": "2026-11-03",
+  "seen_on": "2026-11-04",
   "found": "2026-11-03",
-  "url": "https://www.amazon.es/dp/B00FKSQI8A",
-  "source": "https://www.chollometro.com/ofertas/2054689"
+  "url": "https://www.amazon.es/dp/B00FKSQI8A"
+ },
+ {
+  "asin": "B0HCZVMSFN",
+  "title": "Cecotec Emisor Térmico ReadyWarm 8000 HeatCore Ceramic Connected",
+  "image": "https://m.media-amazon.com/images/I/61nIwDNuGfL._AC_SL1500_.jpg",
+  "category": "Hogar y cocina",
+  "discount": 35,
+  "price": "269,00 €",
+  "old_price": "411,90€",
+  "seen_on": "2026-11-04",
+  "found": "2026-11-04",
+  "url": "https://www.amazon.es/dp/B0HCZVMSFN",
+  "source": "https://www.chollometro.com/ofertas/2054906"
  },
  {
   "asin": "B0H1HZZ3DF",
@@ -85,10 +105,9 @@
   "discount": 33,
   "price": "19,99 €",
   "old_price": "29,99€",
-  "seen_on": "2026-11-03",
+  "seen_on": "2026-11-04",
   "found": "2026-11-03",
-  "url": "https://www.amazon.es/dp/B0H1HZZ3DF",
-  "source": "https://www.chollometro.com/ofertas/2054715"
+  "url": "https://www.amazon.es/dp/B0H1HZZ3DF"
  },
  {
   "asin": "B0DWF1W82X",
@@ -98,10 +117,9 @@
   "discount": 30,
   "price": "69,99 €",
   "old_price": "99,99€",
-  "seen_on": "2026-11-03",
+  "seen_on": "2026-11-04",
   "found": "2026-11-03",
-  "url": "https://www.amazon.es/dp/B0DWF1W82X",
-  "source": "https://www.chollometro.com/ofertas/2052435"
+  "url": "https://www.amazon.es/dp/B0DWF1W82X"
  },
  {
   "asin": "B0DWDJWS3D",
@@ -111,10 +129,9 @@
   "discount": 30,
   "price": "41,99 €",
   "old_price": "59,99€",
-  "seen_on": "2026-11-03",
+  "seen_on": "2026-11-04",
   "found": "2026-11-03",
-  "url": "https://www.amazon.es/dp/B0DWDJWS3D",
-  "source": "https://www.chollometro.com/ofertas/2052519"
+  "url": "https://www.amazon.es/dp/B0DWDJWS3D"
  },
  {
   "asin": "B07W7LW3VV",
@@ -124,10 +141,9 @@
   "discount": 29,
   "price": "49,99 €",
   "old_price": "69,99€",
-  "seen_on": "2026-11-03",
+  "seen_on": "2026-11-04",
   "found": "2026-11-03",
-  "url": "https://www.amazon.es/dp/B07W7LW3VV",
-  "source": "https://www.chollometro.com/ofertas/2054015"
+  "url": "https://www.amazon.es/dp/B07W7LW3VV"
  },
  {
   "asin": "B0DSC8JF59",
@@ -137,23 +153,22 @@
   "discount": 29,
   "price": "249,00 €",
   "old_price": "349,99€",
-  "seen_on": "2026-11-03",
+  "seen_on": "2026-11-04",
   "found": "2026-11-03",
-  "url": "https://www.amazon.es/dp/B0DSC8JF59",
-  "source": "https://www.chollometro.com/ofertas/2052771"
+  "url": "https://www.amazon.es/dp/B0DSC8JF59"
  },
  {
-  "asin": "B0FVY8K3ZP",
-  "title": "Victorinox Synergy X Alox Navaja Suiza Multiuso con Tijeras y Clip",
-  "image": "https://m.media-amazon.com/images/I/71s0lo57kdL._AC_SL1500_.jpg",
-  "category": "Herramientas manuales y eléctricas",
+  "asin": "B0DSGCZYKL",
+  "title": "CARMEN SANDIEGO EDICIÓN 40ª ANIVERSARIO - PS5",
+  "image": "https://m.media-amazon.com/images/I/51mMWa1VKtL._AC_SL1000_.jpg",
+  "category": "Videojuegos",
   "discount": 28,
-  "price": "61,34 €",
-  "old_price": "85,00€",
-  "seen_on": "2026-11-03",
-  "found": "2026-11-03",
-  "url": "https://www.amazon.es/dp/B0FVY8K3ZP",
-  "source": "https://www.chollometro.com/ofertas/2054714"
+  "price": "23,18 €",
+  "old_price": "32,13€",
+  "seen_on": "2026-11-04",
+  "found": "2026-11-04",
+  "url": "https://www.amazon.es/dp/B0DSGCZYKL",
+  "source": "https://www.chollometro.com/ofertas/2054911"
  },
  {
   "asin": "B01CP35K1I",
@@ -163,10 +178,9 @@
   "discount": 27,
   "price": "31,33 €",
   "old_price": "42,87€",
-  "seen_on": "2026-11-03",
+  "seen_on": "2026-11-04",
   "found": "2026-11-03",
-  "url": "https://www.amazon.es/dp/B01CP35K1I",
-  "source": "https://www.chollometro.com/ofertas/2054713"
+  "url": "https://www.amazon.es/dp/B01CP35K1I"
  },
  {
   "asin": "B0F5B9NZQ7",
@@ -176,10 +190,9 @@
   "discount": 27,
   "price": "10,99 €",
   "old_price": "15,00€",
-  "seen_on": "2026-11-03",
+  "seen_on": "2026-11-04",
   "found": "2026-11-03",
-  "url": "https://www.amazon.es/dp/B0F5B9NZQ7",
-  "source": "https://www.chollometro.com/ofertas/2054697"
+  "url": "https://www.amazon.es/dp/B0F5B9NZQ7"
  },
  {
   "asin": "B0G7FGVGP9",
@@ -189,10 +202,9 @@
   "discount": 26,
   "price": "302,90 €",
   "old_price": "409,90€",
-  "seen_on": "2026-11-03",
+  "seen_on": "2026-11-04",
   "found": "2026-11-03",
-  "url": "https://www.amazon.es/dp/B0G7FGVGP9",
-  "source": "https://www.chollometro.com/ofertas/2053012"
+  "url": "https://www.amazon.es/dp/B0G7FGVGP9"
  },
  {
   "asin": "B0DZWG2RC5",
@@ -202,23 +214,9 @@
   "discount": 25,
   "price": "299,00 €",
   "old_price": "399,00€",
-  "seen_on": "2026-11-03",
+  "seen_on": "2026-11-04",
   "found": "2026-11-03",
-  "url": "https://www.amazon.es/dp/B0DZWG2RC5",
-  "source": "https://www.chollometro.com/ofertas/2053678"
- },
- {
-  "asin": "B08HH4R2TZ",
-  "title": "Funko Pop! Television: Netflix Stranger Things - Eleven",
-  "image": "https://m.media-amazon.com/images/I/614O58DH5EL._AC_SL1300_.jpg",
-  "category": "Juguetes y juegos",
-  "discount": 25,
-  "price": "11,99 €",
-  "old_price": "16,00€",
-  "seen_on": "2026-11-03",
-  "found": "2026-11-03",
-  "url": "https://www.amazon.es/dp/B08HH4R2TZ",
-  "source": "https://www.chollometro.com/ofertas/2054702"
+  "url": "https://www.amazon.es/dp/B0DZWG2RC5"
  },
  {
   "asin": "B0HD8TJTZH",
@@ -228,10 +226,9 @@
   "discount": 23,
   "price": "999,00 €",
   "old_price": "1.299,00€",
-  "seen_on": "2026-11-03",
+  "seen_on": "2026-11-04",
   "found": "2026-11-03",
-  "url": "https://www.amazon.es/dp/B0HD8TJTZH",
-  "source": "https://www.chollometro.com/ofertas/2052941"
+  "url": "https://www.amazon.es/dp/B0HD8TJTZH"
  },
  {
   "asin": "B0BPYQ51KL",
@@ -241,10 +238,9 @@
   "discount": 22,
   "price": "108,90 €",
   "old_price": "139,90€",
-  "seen_on": "2026-11-03",
+  "seen_on": "2026-11-04",
   "found": "2026-11-03",
-  "url": "https://www.amazon.es/dp/B0BPYQ51KL",
-  "source": "https://www.chollometro.com/ofertas/2054376"
+  "url": "https://www.amazon.es/dp/B0BPYQ51KL"
  },
  {
   "asin": "B0G5Q7465Y",
@@ -254,10 +250,9 @@
   "discount": 22,
   "price": "79,00 €",
   "old_price": "100,99€",
-  "seen_on": "2026-11-03",
+  "seen_on": "2026-11-04",
   "found": "2026-11-03",
-  "url": "https://www.amazon.es/dp/B0G5Q7465Y",
-  "source": "https://www.chollometro.com/ofertas/2052684"
+  "url": "https://www.amazon.es/dp/B0G5Q7465Y"
  },
  {
   "asin": "B0GR9QCYJG",
@@ -267,10 +262,9 @@
   "discount": 22,
   "price": "1.362,80 €",
   "old_price": "1.749,00€",
-  "seen_on": "2026-11-03",
+  "seen_on": "2026-11-04",
   "found": "2026-11-03",
-  "url": "https://www.amazon.es/dp/B0GR9QCYJG",
-  "source": "https://www.chollometro.com/ofertas/2052698"
+  "url": "https://www.amazon.es/dp/B0GR9QCYJG"
  },
  {
   "asin": "B074KHWNJZ",
@@ -280,10 +274,9 @@
   "discount": 20,
   "price": "115,54 €",
   "old_price": "144,54€",
-  "seen_on": "2026-11-03",
+  "seen_on": "2026-11-04",
   "found": "2026-11-03",
-  "url": "https://www.amazon.es/dp/B074KHWNJZ",
-  "source": "https://www.chollometro.com/ofertas/2052630"
+  "url": "https://www.amazon.es/dp/B074KHWNJZ"
  },
  {
   "asin": "B0GJ675N4Z",
@@ -293,10 +286,9 @@
   "discount": 20,
   "price": "54,90 €",
   "old_price": "68,90€",
-  "seen_on": "2026-11-03",
+  "seen_on": "2026-11-04",
   "found": "2026-11-03",
-  "url": "https://www.amazon.es/dp/B0GJ675N4Z",
-  "source": "https://www.chollometro.com/ofertas/2052612"
+  "url": "https://www.amazon.es/dp/B0GJ675N4Z"
  },
  {
   "asin": "B0FTXYXHY7",
@@ -306,36 +298,21 @@
   "discount": 19,
   "price": "20,91 €",
   "old_price": "25,90€",
-  "seen_on": "2026-11-03",
+  "seen_on": "2026-11-04",
   "found": "2026-11-03",
-  "url": "https://www.amazon.es/dp/B0FTXYXHY7",
-  "source": "https://www.chollometro.com/ofertas/2054036"
- },
- {
-  "asin": "B0D2P7Y498",
-  "title": "Horror Park [Bluray] Película [Blu-ray]",
-  "image": "https://m.media-amazon.com/images/I/71-RVs5TwNL._SL1500_.jpg",
-  "category": "Películas y TV",
-  "discount": 19,
-  "price": "8,46 €",
-  "old_price": "10,44€",
-  "seen_on": "2026-11-03",
-  "found": "2026-11-03",
-  "url": "https://www.amazon.es/dp/B0D2P7Y498",
-  "source": "https://www.chollometro.com/ofertas/2054705"
+  "url": "https://www.amazon.es/dp/B0FTXYXHY7"
  },
  {
   "asin": "B0CDC6Y617",
   "title": "Garmin Venu 3S, Smartwatch con GPS, Beige Gold",
   "image": "https://m.media-amazon.com/images/I/61OkNMqMzwL._AC_SL1500_.jpg",
   "category": "Electrónica",
-  "discount": 16,
-  "price": "318,99 €",
+  "discount": 17,
+  "price": "314,99 €",
   "old_price": "378,98€",
-  "seen_on": "2026-11-03",
+  "seen_on": "2026-11-04",
   "found": "2026-11-03",
-  "url": "https://www.amazon.es/dp/B0CDC6Y617",
-  "source": "https://www.chollometro.com/ofertas/2052803"
+  "url": "https://www.amazon.es/dp/B0CDC6Y617"
  },
  {
   "asin": "B0HD87B246",
@@ -345,10 +322,9 @@
   "discount": 13,
   "price": "1.399,00 €",
   "old_price": "1.599,00€",
-  "seen_on": "2026-11-03",
+  "seen_on": "2026-11-04",
   "found": "2026-11-03",
-  "url": "https://www.amazon.es/dp/B0HD87B246",
-  "source": "https://www.chollometro.com/ofertas/2052939"
+  "url": "https://www.amazon.es/dp/B0HD87B246"
  },
  {
   "asin": "B0F5GRCTLT",
@@ -358,23 +334,9 @@
   "discount": 13,
   "price": "64,99 €",
   "old_price": "74,95€",
-  "seen_on": "2026-11-03",
+  "seen_on": "2026-11-04",
   "found": "2026-11-03",
-  "url": "https://www.amazon.es/dp/B0F5GRCTLT",
-  "source": "https://www.chollometro.com/ofertas/2052389"
- },
- {
-  "asin": "B0GF8VWKFJ",
-  "title": "KARL LAGERFELD Kl6224s Gafas Hombre (Pack de 1)",
-  "image": "https://m.media-amazon.com/images/I/51Pn3+4fqlL._AC_SL1500_.jpg",
-  "category": "Moda",
-  "discount": 13,
-  "price": "30,40 €",
-  "old_price": "34,80€",
-  "seen_on": "2026-11-03",
-  "found": "2026-11-03",
-  "url": "https://www.amazon.es/dp/B0GF8VWKFJ",
-  "source": "https://www.chollometro.com/ofertas/2054709"
+  "url": "https://www.amazon.es/dp/B0F5GRCTLT"
  },
  {
   "asin": "B0H2TRT1Z8",
@@ -384,9 +346,20 @@
   "discount": 10,
   "price": "269,99 €",
   "old_price": "299,99€",
-  "seen_on": "2026-11-03",
+  "seen_on": "2026-11-04",
   "found": "2026-11-03",
-  "url": "https://www.amazon.es/dp/B0H2TRT1Z8",
-  "source": "https://www.chollometro.com/ofertas/2052404"
+  "url": "https://www.amazon.es/dp/B0H2TRT1Z8"
+ },
+ {
+  "asin": "B0D2P7Y498",
+  "title": "Horror Park [Bluray] Película [Blu-ray]",
+  "image": "https://m.media-amazon.com/images/I/71-RVs5TwNL._SL1500_.jpg",
+  "category": "Películas y TV",
+  "discount": 8,
+  "price": "9,58 €",
+  "old_price": "10,44€",
+  "seen_on": "2026-11-04",
+  "found": "2026-11-03",
+  "url": "https://www.amazon.es/dp/B0D2P7Y498"
  }
 ]
